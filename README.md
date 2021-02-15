@@ -8,6 +8,12 @@ date and also understand the size of counts that are lagged at each update inter
 We extract prior versions of the reported data from the [New York City  
 Department of Health and Mental Hygiene](https://github.com/nychealth/coronavirus-data)
 
+### Setup
+
+Python 3.7
+
+packages: pandas 1.2.1 , seaborn 0.11.1
+
 ### Steps
 
 1. Clone data locally
